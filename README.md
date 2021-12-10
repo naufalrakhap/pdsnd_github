@@ -7,7 +7,7 @@ This project is made in December 10th 2021
 Post My Work on GitHub
 
 ### Description
-This project is being done in order for us to master and acknowledge the relation and function both between version control (git) and GitHub which act as remote repository
+This project is being done in order for us to master & acknowledge the relation & function both between version control (git) & GitHub which act as remote repository
 
 ### Files used
 List of files that used in this project:
